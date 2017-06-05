@@ -1,5 +1,7 @@
 # EDA of Red Wine quality data
 
+![](proj_img.jpg)
+
 The dataset consists of the measurements of various chemical properties of Red Wines and a quality rating which is a median rating from 3 or more wine experts. Objective of this analysis is to try to understand this data from the perspective of predicting Red Wine quality by using some of these chemical properties as influencing factors or features.
 
 ## Files
